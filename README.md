@@ -1,8 +1,6 @@
 :sparkles: <a href="https://digitalclockbyme.netlify.app/">clique neste link</a> para ver o relógio funcionando! :hearts: <br><br>
 esse é um relógio digital feito de forma dinâmica e além de trabalhar com as variáveis, condições e funções no javascript, também dei uma boa atenção na estilização do css.
 
-apesar de um projeto simples, eu gostei bastante do resultado! ele ficou assim:
-
 
 
 
